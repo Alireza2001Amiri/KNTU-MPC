@@ -1,0 +1,490 @@
+﻿@misc{RN29,
+   title = {https://cellumation.com/},
+   year = {2024},
+   type = {Web Page}
+}
+
+@article{RN45,
+   author = {Ahn, Chong H and Kim, Yong J and Allen, Mark G},
+   title = {A planar variable reluctance magnetic micromotor with fully integrated stator and coils},
+   journal = {Journal of Microelectromechanical Systems},
+   volume = {2},
+   number = {4},
+   pages = {165-173},
+   ISSN = {1057-7157},
+   year = {1993},
+   type = {Journal Article}
+}
+
+@article{RN7,
+   author = {Berkelman, Peter and Dzadovsky, Michael},
+   title = {Magnetic Levitation Over Large Translation and Rotation Ranges in All Directions},
+   journal = {IEEE/ASME Transactions on Mechatronics},
+   volume = {18},
+   number = {1},
+   pages = {44-52},
+   ISSN = {1083-4435
+1941-014X},
+   DOI = {10.1109/tmech.2011.2161614},
+   year = {2013},
+   type = {Journal Article}
+}
+
+@article{RN57,
+   author = {CMM, van Lierop and JW, Jansen and EA, Lomonova and AAH, Damen and PPJ, van den Bosch and AJA, Vandenput},
+   title = {Commutation of a magnetically levitated planar actuator with moving-magnets},
+   journal = {IEEJ Transactions on Industry Applications},
+   volume = {128},
+   number = {12},
+   pages = {1333-1338},
+   ISSN = {0913-6339},
+   year = {2008},
+   type = {Journal Article}
+}
+
+@article{RN36,
+   author = {Dang, The Anh Tuan and Bosch-Mauchand, Magali and Arora, Neha and Prelle, Christine and Daaboul, Joanna},
+   title = {Electromagnetic modular Smart Surface architecture and control in a microfactory context},
+   journal = {Computers in Industry},
+   volume = {81},
+   pages = {152-170},
+   ISSN = {0166-3615},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN43,
+   author = {de Boeij, Jeroen and Lomonova, Elena and Duarte, Jorge},
+   title = {Contactless planar actuator with manipulator: A motion system without cables and physical contact between the mover and the fixed world},
+   journal = {IEEE Transactions on Industry Applications},
+   volume = {45},
+   number = {6},
+   pages = {1930-1938},
+   ISSN = {0093-9994},
+   year = {2009},
+   type = {Journal Article}
+}
+
+@article{RN18,
+   author = {de Boeij, J. and Lomonova, E. and Vandenput, A.},
+   title = {Modeling Ironless Permanent-Magnet Planar Actuator Structures},
+   journal = {IEEE Transactions on Magnetics},
+   volume = {42},
+   number = {8},
+   pages = {2009-2016},
+   ISSN = {0018-9464
+1941-0069},
+   DOI = {10.1109/tmag.2006.877712},
+   year = {2006},
+   type = {Journal Article}
+}
+
+@inproceedings{RN51,
+   author = {De Boeij, J and Lomonova, E and Vandenput, AJ},
+   title = {Modeling of Ironless Permanent Magnet Planar Motor Structures},
+   booktitle = {INTERMAG 2006-IEEE International Magnetics Conference},
+   ISBN = {1424414792},
+   type = {Conference Proceedings}
+}
+
+@article{RN49,
+   author = {Guo, Liang and Zhang, He and Galea, Michael and Li, Jing and Lu, Wenqi and Gerada, Chris},
+   title = {Analysis and design of a magnetically levitated planar motor with novel multilayer windings},
+   journal = {IEEE Transactions on Magnetics},
+   volume = {51},
+   number = {8},
+   pages = {1-9},
+   ISSN = {0018-9464},
+   year = {2015},
+   type = {Journal Article}
+}
+
+@article{RN63,
+   author = {Halbach, K},
+   title = {The Art and Science of Magnet Design},
+   journal = {Lawrence Berkeley Laboratory},
+   year = {1995},
+   type = {Journal Article}
+}
+
+@article{RN48,
+   author = {Han, Hyung-Suk and Kim, Dong-Sung},
+   title = {Magnetic levitation},
+   journal = {Springer Tracts on Transportation and Traffic. Springer Netherlands},
+   volume = {247},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@phdthesis{RN21,
+   author = {Jansen, J. W.},
+   title = {Magnetically levitated planar actuator with moving magnets : electromechanical analysis and design},
+   university = {Technische Universiteit Eindhoven},
+   DOI = {10.6100/IR630846},
+   year = {2007},
+   type = {Thesis}
+}
+
+@article{RN9,
+   author = {Jansen, J. W. and van Lierop, C. M. M. and Lomonova, E. A. and Vandenput, A. J. A.},
+   title = {Modeling of Magnetically Levitated Planar Actuators With Moving Magnets},
+   journal = {IEEE Transactions on Magnetics},
+   volume = {43},
+   number = {1},
+   pages = {15-25},
+   ISSN = {0018-9464},
+   DOI = {10.1109/tmag.2006.886051},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@inproceedings{RN53,
+   author = {Jeon, Jeong-Woo and Caraiani, Mitica and Kim, Yong-Joo and Oh, Hyeon-Seok and Kim, Sung-Shin},
+   title = {Development of magnetic levitated stage for wide area movements},
+   booktitle = {2007 International Conference on Electrical Machines and Systems (ICEMS)},
+   publisher = {IEEE},
+   pages = {1486-1491},
+   ISBN = {8986510073},
+   type = {Conference Proceedings}
+}
+
+@article{RN5,
+   author = {Jeroen de Boeij , Elena Lomonova and Andr´e J.A. Vandenput},
+   title = {Look-Up Table Based Real-Time Commutation of 6-DOF Planar Actuators},
+   journal = {16th IEEE International Conference on Control Applications Part of IEEE Multi-conference on Systems and Control Singapore},
+   year = {2007},
+   type = {Journal Article}
+}
+
+@article{RN40,
+   author = {Kim, Won-jong and Trumper, David L},
+   title = {High-precision magnetic levitation stage for photolithography},
+   journal = {Precision engineering},
+   volume = {22},
+   number = {2},
+   pages = {66-77},
+   ISSN = {0141-6359},
+   year = {1998},
+   type = {Journal Article}
+}
+
+@article{RN12,
+   author = {Laithwaite, E. R.},
+   title = {Linear Motor Electrical Machines},
+   year = {1970},
+   type = {Journal Article}
+}
+
+@book{RN33,
+   author = {Mayer, Stephan H},
+   title = {Development of a completely decentralized control system for modular continuous conveyors},
+   publisher = {KIT Scientific Publishing Karlsruhe, Germany},
+   volume = {73},
+   year = {2009},
+   type = {Book}
+}
+
+@article{RN64,
+   author = {Merritt, Bernard T and Post, Robert F and Dreifuerst, Gary R and Bender, Donald A},
+   title = {Halbach array motor/generators: A novel generalized electric machine},
+   year = {1994},
+   type = {Journal Article}
+}
+
+@article{RN39,
+   author = {Miyasaka, Muneaki and Berkelman, Peter},
+   title = {Magnetic levitation with unlimited omnidirectional rotation range},
+   journal = {Mechatronics},
+   volume = {24},
+   number = {3},
+   pages = {252-264},
+   ISSN = {0957-4158},
+   year = {2014},
+   type = {Journal Article}
+}
+
+@article{RN52,
+   author = {Namburi, Devendra K and Shi, Yunhua and Cardwell, David A},
+   title = {The processing and properties of bulk (RE) BCO high temperature superconductors: current status and future perspectives},
+   journal = {Superconductor Science and Technology},
+   volume = {34},
+   number = {5},
+   pages = {053002},
+   ISSN = {0953-2048},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN61,
+   author = {Ou, Tiansheng and Hu, Chuxiong and Zhu, Yu and Zhang, Ming and Zhu, Limin},
+   title = {Intelligent feedforward compensation motion control of maglev planar motor with precise reference modification prediction},
+   journal = {IEEE Transactions on Industrial Electronics},
+   volume = {68},
+   number = {9},
+   pages = {7768-7777},
+   ISSN = {0278-0046},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@article{RN15,
+   author = {Pelta, Edmond R.},
+   title = {Two-Axis Sawyer Motor for Motion Systems},
+   year = {1987},
+   type = {Journal Article}
+}
+
+@article{RN56,
+   author = {Peng, Junrong and Zhou, Yunfei},
+   title = {Modeling and analysis of a new 2-D Halbach array for magnetically levitated planar motor},
+   journal = {IEEE Transactions on Magnetics},
+   volume = {49},
+   number = {1},
+   pages = {618-627},
+   ISSN = {0018-9464},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN55,
+   author = {Proimadis, Ioannis and Custers, Coen HHM and Tóth, Roland and Jansen, JW and Butler, Hans and Lomonova, Elena and Van den Hof, Paul MJ},
+   title = {Active deformation control for a magnetically levitated planar motor mover},
+   journal = {IEEE Transactions on Industry Applications},
+   volume = {58},
+   number = {1},
+   pages = {242-249},
+   ISSN = {0093-9994},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@inproceedings{RN26,
+   author = {Rovers, JMM and Jansen, JW and Lomonova, EA},
+   title = {Design and measurements of the double layer planar motor},
+   booktitle = {2013 International Electric Machines & Drives Conference},
+   publisher = {IEEE},
+   pages = {204-211},
+   ISBN = {1467349747},
+   type = {Conference Proceedings}
+}
+
+@inproceedings{RN44,
+   author = {Rui, Huang and Jian, Feng},
+   title = {Magnetic field analysis of permanent magnet array for planar motor based on Equivalent Magnetic Charge method},
+   booktitle = {Proceedings of the 10th World Congress on Intelligent Control and Automation},
+   publisher = {IEEE},
+   pages = {3966-3970},
+   ISBN = {146731398X},
+   type = {Conference Proceedings}
+}
+
+@phdthesis{RN13,
+   author = {Stewart, Curtis},
+   title = {Implementation of a Modular Magnetic Levitation Planar Motor},
+   university = {University of Waterloo},
+   year = {2023},
+   type = {Thesis}
+}
+
+@inproceedings{RN35,
+   author = {Sun, Tao and Zhang, Youpan and Zhang, Hui and Wang, Pei and Zhao, Yongguo and Liu, Guangliang},
+   title = {Three-wheel driven omnidirectional reconfigurable conveyor belt design},
+   booktitle = {2019 Chinese Automation Congress (CAC)},
+   publisher = {IEEE},
+   pages = {101-105},
+   ISBN = {1728140943},
+   type = {Conference Proceedings}
+}
+
+@article{RN62,
+   author = {Trakarnchaiyo, Chanuphon and Wang, Yang and Khamesee, Mir Behrad},
+   title = {Design of a Compact Planar Magnetic Levitation System with Wrench–Current Decoupling Enhancement},
+   journal = {Applied Sciences},
+   volume = {13},
+   number = {4},
+   pages = {2370},
+   ISSN = {2076-3417},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN28,
+   author = {Wang, Yang and Chen, Fuxiang and Zheng, Zhiyi and Zeng, Lizhan},
+   title = {Magnet array of planar motor using permanent magnets with different magnetisation intensity and height},
+   journal = {IET Electric Power Applications},
+   volume = {14},
+   number = {14},
+   pages = {2772-2779},
+   ISSN = {1751-8660},
+   year = {2020},
+   type = {Journal Article}
+}
+
+@phdthesis{RN16,
+   author = {Xu, Zhenchuan},
+   title = {Design, Implementation, and Control of a Magnetic Levitated Planar Motor},
+   university = {University of Waterloo},
+   year = {2024},
+   type = {Thesis}
+}
+
+@article{RN10,
+   author = {Xu, Zhenchuan and Trakarnchaiyo, Chanuphon and Stewart, Curtis and Khamesee, Mir Behrad},
+   title = {Modular Maglev: Design and implementation of a modular magnetic levitation system to levitate a 2D Halbach array},
+   journal = {Mechatronics},
+   volume = {99},
+   ISSN = {09574158},
+   DOI = {10.1016/j.mechatronics.2024.103148},
+   year = {2024},
+   type = {Journal Article}
+}
+
+@article{RN30,
+   author = {Xu, Zhenchuan and Wang, Yang and Wang, Jie and Khamesee, Mir Behrad},
+   title = {Predictor-based model predictive control for maglev planar motor with a 2D Halbach array mover},
+   journal = {Control Engineering Practice},
+   volume = {141},
+   pages = {105731},
+   ISSN = {0967-0661},
+   year = {2023},
+   type = {Journal Article}
+}
+
+@article{RN17,
+   author = {Yaseen, Mundher H. A.},
+   title = {A comparative study of stabilizing control of a planer electromagnetic levitation using PID and LQR controllers},
+   journal = {Results in Physics},
+   volume = {7},
+   pages = {4379-4387},
+   ISSN = {22113797},
+   DOI = {10.1016/j.rinp.2017.11.007},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN6,
+   author = {YONNET, GILLES AKOUN AND JEAN-PAUL},
+   title = {3D ANALYTICAL CALCULATION OF ME FORCES EXERTED BElWEEN TWO CUBOIDAL N4GNET},
+   year = {1984},
+   type = {Journal Article}
+}
+
+@article{RN37,
+   author = {Zhang, Shengguo and Dang, Xiaoping and Wang, Kai and Huang, Jingtao and Yang, Jingxian and Zhang, Guoheng},
+   title = {An analytical approach to determine coil thickness for magnetically levitated planar motors},
+   journal = {IEEE/ASME Transactions on Mechatronics},
+   volume = {22},
+   number = {1},
+   pages = {572-580},
+   ISSN = {1083-4435},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN14,
+   author = {Zhang, Shengguo and Dang, Xiaoping and Wang, Kai and Huang, Jingtao and Yang, Jingxian and Zhang, Guoheng},
+   title = {An Analytical Approach to Determine Coil Thickness for Magnetically Levitated Planar Motors},
+   journal = {IEEE/ASME Transactions on Mechatronics},
+   volume = {22},
+   number = {1},
+   pages = {572-580},
+   ISSN = {1083-4435
+1941-014X},
+   DOI = {10.1109/tmech.2016.2631571},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN59,
+   author = {Zhang, Shengguo and Niu, Lu and Zhou, Lijun and Huang, Jingtao and Hu, Weiwen and Zhang, Guoquan},
+   title = {Optimal matching design of length and width of rectangular ironless coils for magnetically levitated planar motors},
+   journal = {IEEE Access},
+   volume = {7},
+   pages = {185301-185309},
+   ISSN = {2169-3536},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN38,
+   author = {Zhang, Shengguo and Zhu, Yu and Mu, Haihua and Yang, Kaiming and Yin, Wensheng},
+   title = {Decoupling and levitation control of a six-degree-of-freedom magnetically levitated stage with moving coils based on commutation of coil array},
+   journal = {Proceedings of the Institution of Mechanical Engineers, Part I: Journal of Systems and Control Engineering},
+   volume = {226},
+   number = {7},
+   pages = {875-886},
+   ISSN = {0959-6518},
+   year = {2012},
+   type = {Journal Article}
+}
+
+@article{RN8,
+   author = {Zhang, Xiaodong and Trakarnchaiyo, Chanuphon and Zhang, Heng and Khamesee, Mir Behrad},
+   title = {MagTable: A tabletop system for 6-DOF large range and completely contactless operation using magnetic levitation},
+   journal = {Mechatronics},
+   volume = {77},
+   ISSN = {09574158},
+   DOI = {10.1016/j.mechatronics.2021.102600},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN50,
+   author = {Zhang, Yiming and Ding, Kaizhong and Du, Shuangsong},
+   title = {Design study of a high loading superconducting magnetically levitated planar motor},
+   journal = {IEEE Transactions on Applied Superconductivity},
+   volume = {31},
+   number = {5},
+   pages = {1-4},
+   ISSN = {1051-8223},
+   year = {2021},
+   type = {Journal Article}
+}
+
+@article{RN54,
+   author = {Zheng, Tong and Xu, Fengqiu and Lu, Xing and Xu, Xianze},
+   title = {A new multi-objective optimization method of magnetic levitation planar motor},
+   journal = {IEEE Transactions on Magnetics},
+   volume = {55},
+   number = {8},
+   pages = {1-8},
+   ISSN = {0018-9464},
+   year = {2019},
+   type = {Journal Article}
+}
+
+@article{RN24,
+   author = {Zhu, Haiyue and Pang, Chee Khiang and Teo, Tat Joo},
+   title = {Analysis and control of a 6 DOF maglev positioning system with characteristics of end-effects and eddy current damping},
+   journal = {Mechatronics},
+   volume = {47},
+   pages = {183-194},
+   ISSN = {0957-4158},
+   year = {2017},
+   type = {Journal Article}
+}
+
+@article{RN27,
+   author = {Zhu, Haiyue and Teo, Tat Joo and Pang, Chee Khiang},
+   title = {Design and modeling of a six-degree-of-freedom magnetically levitated positioner using square coils and 1-D Halbach arrays},
+   journal = {IEEE Transactions on Industrial Electronics},
+   volume = {64},
+   number = {1},
+   pages = {440-450},
+   ISSN = {0278-0046},
+   year = {2016},
+   type = {Journal Article}
+}
+
+@article{RN32,
+   author = {Zhu, Haiyue and Teo, Tat Joo and Pang, Chee Khiang},
+   title = {Magnetically levitated parallel actuated dual-stage (Maglev-PAD) system for six-axis precision positioning},
+   journal = {IEEE/ASME Transactions on Mechatronics},
+   volume = {24},
+   number = {4},
+   pages = {1829-1838},
+   ISSN = {1083-4435},
+   year = {2019},
+   type = {Journal Article}
+}
+

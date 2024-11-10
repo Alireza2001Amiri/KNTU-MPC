@@ -1,0 +1,62 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: MPC_Proposal.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: ./tex/chapter1.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: ./tex/chapter2.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: ./tex/chapter5.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: unsrt-fa.bst
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+Database file #1: ./tex/MyReferences.bib
+-- unsrt-fa.bst version 0.5 (2011/07/01) 
+-- This is a BibTeX style for XePersian: http://www.parsilatex.com
+Warning--empty school in RN16
+Warning--empty year in RN26
+Warning--empty year in RN44
+
+Done.
+You've used 19 entries,
+            2198 wiz_defined-function locations,
+            707 strings with 8669 characters,
+and the built_in function-call counts, 5184 in all, are:
+= -- 407
+> -- 253
+< -- 2
++ -- 91
+- -- 72
+* -- 399
+:= -- 788
+add.period$ -- 59
+call.type$ -- 19
+change.case$ -- 19
+chr.to.int$ -- 0
+cite$ -- 22
+duplicate$ -- 193
+empty$ -- 449
+format.name$ -- 72
+if$ -- 1197
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 79
+newline$ -- 177
+num.names$ -- 19
+pop$ -- 32
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 86
+stack$ -- 0
+substring$ -- 350
+swap$ -- 41
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 4
+type$ -- 0
+warning$ -- 3
+while$ -- 38
+width$ -- 21
+write$ -- 270
+(There were 3 warnings)
