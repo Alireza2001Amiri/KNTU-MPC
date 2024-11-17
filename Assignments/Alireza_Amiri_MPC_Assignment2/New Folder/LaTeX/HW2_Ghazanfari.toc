@@ -1,0 +1,10 @@
+\contentsline {section}{\numberline {1}سوال اول}{2}{section.2}%
+\contentsline {section}{\numberline {2}سوال دوم}{8}{section.10}%
+\contentsline {subsection}{\numberline {2.1}بخش اول}{8}{subsection.11}%
+\contentsline {subsection}{\numberline {2.2}بخش دوم}{10}{subsection.17}%
+\contentsline {subsubsection}{\numberline {2.2.1}\lr {sample time}}{11}{subsubsection.20}%
+\contentsline {subsubsection}{\numberline {2.2.2}\lr {Prediction horizon}}{13}{subsubsection.25}%
+\contentsline {subsubsection}{\numberline {2.2.3}\lr {Control horizon}}{15}{subsubsection.30}%
+\contentsline {subsubsection}{\numberline {2.2.4}\lr {Constraints}}{17}{subsubsection.35}%
+\contentsline {subsubsection}{\numberline {2.2.5}\lr {Weights}}{19}{subsubsection.40}%
+\contentsline {section}{\numberline {3}سوال سوم}{21}{section.43}%
