@@ -1,0 +1,2169 @@
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.10.19)  10 DEC 2024 14:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**HW3_Ghazanfari.tex
+(./HW3_Ghazanfari.tex
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+(c:/texlive/2024/texmf-dist/tex/latex/extsizes/extarticle.cls
+Document Class: extarticle 1996/10/08 v1.0 Non Standard LaTeX document class
+(c:/texlive/2024/texmf-dist/tex/latex/extsizes/size14.clo
+File: size14.clo 1999/11/11 v1.4a NON-Standard LaTeX file (size option)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/base/exscale.sty
+Package: exscale 2018/09/24 v2.1i Standard LaTeX package exscale
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/cmex/m/n on input line 57.
+\big@size=\dimen140
+)
+\c@part=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen141
+)
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2023/05/13 v2.17o AMS math features
+\@mathmargin=\skip50
+
+For additional information on amsmath, use the `?' option.
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen142
+))
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen143
+)
+(c:/texlive/2024/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count192
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count193
+\leftroot@=\count194
+LaTeX Info: Redefining \overline on input line 399.
+LaTeX Info: Redefining \colon on input line 410.
+\classnum@=\count195
+\DOTSCASE@=\count196
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+LaTeX Info: Redefining \big on input line 722.
+LaTeX Info: Redefining \Big on input line 723.
+LaTeX Info: Redefining \bigg on input line 724.
+LaTeX Info: Redefining \Bigg on input line 725.
+\big@size=\dimen144
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count197
+LaTeX Info: Redefining \bmod on input line 905.
+LaTeX Info: Redefining \pmod on input line 910.
+LaTeX Info: Redefining \smash on input line 940.
+LaTeX Info: Redefining \relbar on input line 970.
+LaTeX Info: Redefining \Relbar on input line 971.
+\c@MaxMatrixCols=\count198
+\dotsspace@=\muskip16
+\c@parentequation=\count199
+\dspbrk@lvl=\count266
+\tag@help=\toks18
+\row@=\count267
+\column@=\count268
+\maxfields@=\count269
+\andhelp@=\toks19
+\eqnshift@=\dimen145
+\alignsep@=\dimen146
+\tagshift@=\dimen147
+\tagwidth@=\dimen148
+\totwidth@=\dimen149
+\lineht@=\dimen150
+\@envbody=\toks20
+\multlinegap=\skip51
+\multlinetaggap=\skip52
+\mathdisplay@stack=\toks21
+LaTeX Info: Redefining \[ on input line 2953.
+LaTeX Info: Redefining \] on input line 2954.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks22
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2022/03/10 v1.4e Standard LaTeX Graphics (DPC,SPQR)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: xetex.def on input line 107.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2022/09/22 v5.0n Graphics/color driver for xetex
+))
+\Gin@req@height=\dimen151
+\Gin@req@width=\dimen152
+)
+(c:/texlive/2024/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2023/11/15 v3.01 LaTeX color extensions (UK)
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: xetex.def on input line 274.
+
+(c:/texlive/2024/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1350.
+Package xcolor Info: Model `RGB' extended on input line 1366.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1368.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1372.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1373.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2024/02/20 v1.0g Color table columns (DPC)
+
+(c:/texlive/2024/texmf-dist/tex/latex/tools/array.sty
+Package: array 2023/10/16 v2.5g Tabular extension package (FMi)
+\col@sep=\dimen153
+\ar@mcellbox=\box53
+\extrarowheight=\dimen154
+\NC@list=\toks23
+\extratabsurround=\skip53
+\backup@length=\skip54
+\ar@cellbox=\box54
+)
+\everycr=\toks24
+\minrowclearance=\skip55
+\rownum=\count270
+)
+(c:/texlive/2024/texmf-dist/tex/latex/matlab-prettifier/matlab-prettifier.sty
+Package: matlab-prettifier 2014/06/19 v0.3 A package for prettyprinting Matlab 
+source code
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count271
+\lst@gtempboxa=\box55
+\lst@token=\toks25
+\lst@length=\count272
+\lst@currlwidth=\dimen155
+\lst@column=\count273
+\lst@pos=\count274
+\lst@lostspace=\dimen156
+\lst@width=\dimen157
+\lst@newlines=\count275
+\lst@lineno=\count276
+\lst@maxwidth=\dimen158
+
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstpatch.sty
+File: lstpatch.sty 2024/02/21 1.10 (Carsten Heinz)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2024/02/21 1.10 (Carsten Heinz)
+\c@lstnumber=\count277
+\lst@skipnumbers=\count278
+\lst@framebox=\box56
+)
+(c:/texlive/2024/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2024/02/21 1.10 listings configuration
+))
+Package: listings 2024/02/21 1.10 (Carsten Heinz)
+\netBracketCount@mlpr=\count279
+\blkLvl@mlpr=\count280
+\blkLvlAtClassdef@mlpr=\count281
+\emHeight@mlpr=\skip56
+\jayDepth@mlpr=\skip57
+\sectionRuleOffset@mlpr=\skip58
+\toks@mlpr=\toks26
+)
+(c:/texlive/2024/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(c:/texlive/2024/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+))
+\Gm@cnth=\count282
+\Gm@cntv=\count283
+\c@Gm@tempcnt=\count284
+\Gm@bindingoffset=\dimen159
+\Gm@wd@mp=\dimen160
+\Gm@odd@mp=\dimen161
+\Gm@even@mp=\dimen162
+\Gm@layoutwidth=\dimen163
+\Gm@layoutheight=\dimen164
+\Gm@layouthoffset=\dimen165
+\Gm@layoutvoffset=\dimen166
+\Gm@dimlist=\toks27
+)
+(c:/texlive/2024/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count285
+\calc@Bcount=\count286
+\calc@Adimen=\dimen167
+\calc@Bdimen=\dimen168
+\calc@Askip=\skip59
+\calc@Bskip=\skip60
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count287
+\calc@Cskip=\skip61
+)
+(c:/texlive/2024/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen169
+\ESO@tempdimb=\dimen170
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pgfplots/pgfplots.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.revision.tex)
+Package: pgfplots 2021/05/15 v1.18.1 Data Visualization (1.18.1)
+
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks28
+\pgfutil@tempdima=\dimen171
+\pgfutil@tempdimb=\dimen172
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box57
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2023-01-15 v3.1.10 (3.1.10)
+))
+Package: pgf 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks29
+\pgfkeys@temptoks=\toks30
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeyslibraryfiltered.co
+de.tex
+\pgfkeys@tmptoks=\toks31
+))
+\pgf@x=\dimen173
+\pgf@y=\dimen174
+\pgf@xa=\dimen175
+\pgf@ya=\dimen176
+\pgf@xb=\dimen177
+\pgf@yb=\dimen178
+\pgf@xc=\dimen179
+\pgf@yc=\dimen180
+\pgf@xd=\dimen181
+\pgf@yd=\dimen182
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count288
+\c@pgf@countb=\count289
+\c@pgf@countc=\count290
+\c@pgf@countd=\count291
+\t@pgf@toka=\toks32
+\t@pgf@tokb=\toks33
+\t@pgf@tokc=\toks34
+\pgf@sys@id@count=\count292
+ (c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
+)
+Driver file for pgf: pgfsys-xetex.def
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-xetex.def
+File: pgfsys-xetex.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-dvipdfmx.def
+File: pgfsys-dvipdfmx.def 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
+)
+\pgfsys@objnum=\count293
+)))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfsyssoftpath@smallbuffer@items=\count294
+\pgfsyssoftpath@bigbuffer@items=\count295
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen183
+\pgfmath@count=\count296
+\pgfmath@box=\box58
+\pgfmath@toks=\toks35
+\pgfmath@stack@operand=\toks36
+\pgfmath@stack@operation=\toks37
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.te
+x)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric
+.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.t
+ex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.co
+de.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.te
+x)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithm
+etics.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count297
+))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@picminx=\dimen184
+\pgf@picmaxx=\dimen185
+\pgf@picminy=\dimen186
+\pgf@picmaxy=\dimen187
+\pgf@pathminx=\dimen188
+\pgf@pathmaxx=\dimen189
+\pgf@pathminy=\dimen190
+\pgf@pathmaxy=\dimen191
+\pgf@xx=\dimen192
+\pgf@xy=\dimen193
+\pgf@yx=\dimen194
+\pgf@yy=\dimen195
+\pgf@zx=\dimen196
+\pgf@zy=\dimen197
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.cod
+e.tex
+File: pgfcorepathconstruct.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@path@lastx=\dimen198
+\pgf@path@lasty=\dimen199
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.te
+x
+File: pgfcorepathusage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@shorten@end@additional=\dimen256
+\pgf@shorten@start@additional=\dimen257
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfpic=\box59
+\pgf@hbox=\box60
+\pgf@layerbox@main=\box61
+\pgf@picture@serial@count=\count298
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code
+.tex
+File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgflinewidth=\dimen258
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.c
+ode.tex
+File: pgfcoretransformations.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@pt@x=\dimen259
+\pgf@pt@y=\dimen260
+\pgf@pt@temp=\dimen261
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.co
+de.tex
+File: pgfcorepathprocessing.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfarrowsep=\dimen262
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@max=\dimen263
+\pgf@sys@shading@range@num=\count299
+\pgf@shadingcount=\count300
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfexternal@startupbox=\box62
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code
+.tex
+File: pgfcoretransparency.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2023-01-15 v3.1.10 (3.1.10)
+) (c:/texlive/2024/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.te
+x
+File: pgfmoduleshapes.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfnodeparttextbox=\box63
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.st
+y
+Package: pgfcomp-version-0-65 2023-01-15 v3.1.10 (3.1.10)
+\pgf@nodesepstart=\dimen264
+\pgf@nodesepend=\dimen265
+)
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.st
+y
+Package: pgfcomp-version-1-18 2023-01-15 v3.1.10 (3.1.10)
+)) (c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
+(c:/texlive/2024/texmf-dist/tex/latex/pgf/math/pgfmath.sty
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
+\pgffor@iter=\dimen266
+\pgffor@skip=\dimen267
+\pgffor@stack=\toks38
+\pgffor@toks=\toks39
+))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.co
+de.tex
+File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgf@plot@mark@count=\count301
+\pgfplotmarksize=\dimen268
+)
+\tikz@lastx=\dimen269
+\tikz@lasty=\dimen270
+\tikz@lastxsaved=\dimen271
+\tikz@lastysaved=\dimen272
+\tikz@lastmovetox=\dimen273
+\tikz@lastmovetoy=\dimen274
+\tikzleveldistance=\dimen275
+\tikzsiblingdistance=\dimen276
+\tikz@figbox=\box64
+\tikz@figbox@bg=\box65
+\tikz@tempbox=\box66
+\tikz@tempbox@bg=\box67
+\tikztreelevel=\count302
+\tikznumberofchildren=\count303
+\tikznumberofcurrentchild=\count304
+\tikz@fig@count=\count305
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
+\pgfmatrixcurrentrow=\count306
+\pgfmatrixcurrentcolumn=\count307
+\pgf@matrix@numberofcolumns=\count308
+)
+\tikz@expandcount=\count309
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscore.code.tex
+\t@pgfplots@toka=\toks40
+\t@pgfplots@tokb=\toks41
+\t@pgfplots@tokc=\toks42
+\pgfplots@tmpa=\dimen277
+\c@pgfplots@coordindex=\count310
+\c@pgfplots@scanlineindex=\count311
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgfplotssysgeneric.code.te
+x))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgfplotslibrary.code.tex)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_loader.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryfpu.code.tex)
+Package pgfplots: loading complementary utilities for your pgf version...
+\t@pgf@toka=\toks43
+\t@pgf@tokb=\toks44
+\t@pgf@tokc=\toks45
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/oldpgfcompatib/pgfplotsoldpgfs
+upp_pgfutil-common-lists.tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+cture.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsliststru
+ctureext.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsarray.co
+de.tex
+\c@pgfplotsarray@tmp=\count312
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsmatrix.c
+ode.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/numtable/pgfplotstableshared.c
+ode.tex
+\c@pgfplotstable@counta=\count313
+\t@pgfplotstable@a=\toks46
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/liststructure/pgfplotsdeque.co
+de.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsbinary.data.code.
+tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotsutil.verb.code.te
+x)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/pgflibrarypgfplots.surfsh
+ading.code.tex
+\c@pgfplotslibrarysurf@no=\count314
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-xetex.def
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/sys/pgflibrarypgfplots.surfsha
+ding.pgfsys-dvipdfmx.def
+\c@pgfplotslibrarysurf@streamlen=\count315
+))))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolormap.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/util/pgfplotscolor.code.tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsstackedplots.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsplothandlers.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplothandler.code.t
+ex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsmeshplotimage.code.tex
+))) (c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.scaling.code.tex)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotscoordprocessing.code.t
+ex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.errorbars.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.markers.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplotsticks.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfplots.paths.code.tex)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.t
+ex
+\pgfdecoratedcompleteddistance=\dimen278
+\pgfdecoratedremainingdistance=\dimen279
+\pgfdecoratedinputsegmentcompleteddistance=\dimen280
+\pgfdecoratedinputsegmentremainingdistance=\dimen281
+\pgf@decorate@distancetomove=\dimen282
+\pgf@decorate@repeatstate=\count316
+\pgfdecorationsegmentamplitude=\dimen283
+\pgfdecorationsegmentlength=\dimen284
+)
+\tikz@lib@dec@box=\box68
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathmorphing.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathmorphing.code.tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+brarydecorations.pathreplacing.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydec
+orations.pathreplacing.code.tex))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/libs/tikzlibrarypgfplots.conto
+urlua.code.tex)
+\pgfplots@numplots=\count317
+\pgfplots@xmin@reg=\dimen285
+\pgfplots@xmax@reg=\dimen286
+\pgfplots@ymin@reg=\dimen287
+\pgfplots@ymax@reg=\dimen288
+\pgfplots@zmin@reg=\dimen289
+\pgfplots@zmax@reg=\dimen290
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryplotmarks.code.tex
+File: tikzlibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryplotmarks.code.
+tex
+File: pgflibraryplotmarks.code.tex 2023-01-15 v3.1.10 (3.1.10)
+))) (c:/texlive/2024/texmf-dist/tex/latex/multirow/multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip62
+\multirow@cntb=\count318
+\multirow@dima=\skip63
+\bigstrutjot=\dimen291
+)
+(c:/texlive/2024/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2023-11-01 v4.19 Multi-page Table package (DPC)
+\LTleft=\skip64
+\LTright=\skip65
+\LTpre=\skip66
+\LTpost=\skip67
+\LTchunksize=\count319
+\LTcapwidth=\dimen292
+\LT@head=\box69
+\LT@firsthead=\box70
+\LT@foot=\box71
+\LT@lastfoot=\box72
+\LT@gbox=\box73
+\LT@cols=\count320
+\LT@rows=\count321
+\c@LT@tables=\count322
+\c@LT@chunks=\count323
+\LT@p@ftn=\toks47
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibraryfillbetw
+een.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzli
+braryintersections.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgf/libraries/pgflibraryintersections.c
+ode.tex
+\pgf@intersect@solutions=\count324
+))
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfcontrib/tikzlibrarydecorati
+ons.softclip.code.tex
+(c:/texlive/2024/texmf-dist/tex/generic/pgfplots/pgfcontrib/pgflibraryfillbetwe
+en.code.tex))) (c:/texlive/2024/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(c:/texlive/2024/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+))
+(c:/texlive/2024/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(c:/texlive/2024/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count325
+)
+(c:/texlive/2024/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count326
+)
+\@linkdim=\dimen293
+\Hy@linkcounter=\count327
+\Hy@pagecounter=\count328
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+(c:/texlive/2024/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count329
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4062.
+Package hyperref Info: Option `hypertexnames' set `false' on input line 4062.
+Package hyperref Info: Option `debug' set `true' on input line 4062.
+Package hyperref Info: Option `linktocpage' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count330
+
+(c:/texlive/2024/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen294
+
+(c:/texlive/2024/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count331
+\Field@Width=\dimen295
+\Fld@charsize=\dimen296
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count332
+\c@Item=\count333
+\c@Hfootnote=\count334
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+
+(c:/texlive/2024/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2024-01-20 v7.01h Hyperref driver for XeTeX
+
+(c:/texlive/2024/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\pdfm@box=\box74
+\c@Hy@AnnotLevel=\count335
+\HyField@AnnotCount=\count336
+\Fld@listcount=\count337
+\c@bookmark@seq@number=\count338
+
+(c:/texlive/2024/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+(c:/texlive/2024/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip68
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 22.
+
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian.sty
+Package: xepersian 2023/08/30 v25.0 (Release Women, Life, and Freedom) Persian 
+typesetting in XeLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+(c:/texlive/2024/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2024-02-20 L3 programming layer (loader) 
+
+(c:/texlive/2024/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2024-02-20 L3 backend support: XeTeX
+\g__graphics_track_int=\count339
+\l__pdf_internal_box=\box75
+\g__pdf_backend_object_int=\count340
+\g__pdf_backend_annotation_int=\count341
+\g__pdf_backend_link_int=\count342
+))
+Package: xparse 2024-02-18 L3 Experimental document command parser
+)
+Package: fontspec 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTeX
+
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec-xetex.sty
+Package: fontspec-xetex 2024/02/13 v2.9a Font selection for XeLaTeX and LuaLaTe
+X
+\l__fontspec_script_int=\count343
+\l__fontspec_language_int=\count344
+\l__fontspec_strnum_int=\count345
+\l__fontspec_tmp_int=\count346
+\l__fontspec_tmpa_int=\count347
+\l__fontspec_tmpb_int=\count348
+\l__fontspec_tmpc_int=\count349
+\l__fontspec_em_int=\count350
+\l__fontspec_emdef_int=\count351
+\l__fontspec_strong_int=\count352
+\l__fontspec_strongdef_int=\count353
+\l__fontspec_tmpa_dim=\dimen297
+\l__fontspec_tmpb_dim=\dimen298
+\l__fontspec_tmpc_dim=\dimen299
+
+(c:/texlive/2024/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(c:/texlive/2024/texmf-dist/tex/latex/fontspec/fontspec.cfg)))
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-persiancal.sty
+Package: xepersian-persiancal 2012/07/25 v0.2 provides Persian calendar
+\XePersian@i=\count354
+\XePersian@y=\count355
+\XePersian@m=\count356
+\XePersian@d=\count357
+\XePersian@latini=\count358
+\XePersian@persiani=\count359
+\XePersian@latinii=\count360
+\XePersian@persianii=\count361
+\XePersian@latiniii=\count362
+\XePersian@persianiii=\count363
+\XePersian@latiniv=\count364
+\XePersian@persianiv=\count365
+\XePersian@latinv=\count366
+\XePersian@persianv=\count367
+\XePersian@latinvi=\count368
+\XePersian@persianvi=\count369
+\XePersian@latinvii=\count370
+\XePersian@persianvii=\count371
+\XePersian@latinviii=\count372
+\XePersian@persianviii=\count373
+\XePersian@latinix=\count374
+\XePersian@persianix=\count375
+\XePersian@latinx=\count376
+\XePersian@persianx=\count377
+\XePersian@latinxi=\count378
+\XePersian@persianxi=\count379
+\XePersian@latinxii=\count380
+\XePersian@persianxii=\count381
+\XePersian@persianxiii=\count382
+\XePersian@temp=\count383
+\XePersian@temptwo=\count384
+\XePersian@tempthree=\count385
+\XePersian@yModHundred=\count386
+\XePersian@thirtytwo=\count387
+\XePersian@dn=\count388
+\XePersian@sn=\count389
+\XePersian@mminusone=\count390
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/xepersian-mathdigitspec.sty
+Package: xepersian-mathdigitspec 2022/05/20 v1.2.0 Unicode Persian math digits 
+in XeLaTeX
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/bidi.sty
+Package: bidi 2023/08/02 v39.8 (Release Donald Ervin Knuth) Bidirectional types
+etting in plain TeX and LaTeX
+
+****************************************************
+* 
+* bidi package (Bidirectional typesetting in
+* plain TeX and LaTeX, using XeTeX engine)
+* 
+* Description: A convenient interface for
+* typesetting bidirectional texts in plain TeX
+* and LaTeX. The package includes adaptations
+* for use with many other commonly-used packages.
+* 
+* Copyright (c) 2007--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub organization
+* 
+* v39.8 (Release Donald Ervin Knuth), 2023/08/02
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/bidi
+* 
+* Issue tracker: https://github.com/kvafa/bidi/issues
+* 
+* Discussions: https://github.com/kvafa/bidi/discussions
+* 
+* Primary author of bidi package: Vafa Khalighi.
+* 
+****************************************************
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/biditools.sty
+Package: biditools 2022/06/15 v2.3 Programming tools for bidi package
+\@bidi@envbody=\toks48
+\@bidi@emptytoks=\toks49
+\bidi@poscount=\count391
+\bidi@tempcountb=\count392
+\bidi@temptoksa=\toks50
+\bidi@temptoksb=\toks51
+\bidi@dummies=\count393
+\bidi@are@these@correct=\toks52
+\bidi@toks@lista=\toks53
+\bidi@toks@listb=\toks54
+\bidi@stack@length=\count394
+\bidi@empty@stack=\toks55
+\bidi@looprepeat@depth=\count395
+)
+(c:/texlive/2024/texmf-dist/tex/latex/zref/zref-abspage.sty
+Package: zref-abspage 2023-09-14 v2.35 Module abspage for zref (HO)
+
+(c:/texlive/2024/texmf-dist/tex/latex/zref/zref-base.sty
+Package: zref-base 2023-09-14 v2.35 Module base for zref (HO)
+
+(c:/texlive/2024/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+Package zref Info: New property list: main on input line 767.
+Package zref Info: New property: default on input line 768.
+Package zref Info: New property: page on input line 769.
+)
+\c@abspage=\count396
+Package zref Info: New property: abspage on input line 67.
+)
+(c:/texlive/2024/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
+
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2024/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks56
+\XKV@tempa@toks=\toks57
+)
+\XKV@depth=\count397
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+\@bidi@copyins@=\insert252
+
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/latex-xetex-bidi.def
+File: latex-xetex-bidi.def 2022/07/04 v1.4.9 bidi adaptations for `latex.ltx' f
+or XeTeX engine
+\bidi@n@everypar=\toks58
+\bidi@column@check@number=\count398
+
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/footnote-xetex-bidi.def
+File: footnote-xetex-bidi.def 2023/01/18 v1.2 bidi footnote macros for XeTeX en
+gine
+\c@footdir@label=\count399
+\footdir@toks=\toks59
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/extarticle-xetex-bidi.def
+File: extarticle-xetex-bidi.def 2017/06/09 v0.4 bidi adaptations for extarticle
+ class for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/amsmath-xetex-bidi.def
+File: amsmath-xetex-bidi.def 2020/05/16 v1.2 bidi adaptations for amsmath packa
+ge for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/amstext-xetex-bidi.def
+File: amstext-xetex-bidi.def 2016/09/12 v0.2 bidi adaptations for amstext packa
+ge for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/color-xetex-bidi.def
+File: color-xetex-bidi.def 2013/04/08 v0.2 bidi adaptations for color package f
+or XeTeX engine
+LaTeX Info: Redefining \color on input line 49.
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/xcolor-xetex-bidi.def
+File: xcolor-xetex-bidi.def 2022/06/13 v0.3 bidi adaptations for xcolor package
+ for XeTeX engine
+LaTeX Info: Redefining \color on input line 48.
+LaTeX Info: Redefining \bidicolor on input line 91.
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/colortbl-xetex-bidi.def
+File: colortbl-xetex-bidi.def 2012/06/10 v0.2 bidi adaptations for colortbl pac
+kage for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/graphicx-xetex-bidi.def
+File: graphicx-xetex-bidi.def 2017/06/17 v0.5 bidi adaptations for graphicx pac
+kage for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/geometry-xetex-bidi.def
+File: geometry-xetex-bidi.def 2017/01/14 v0.2 bidi adaptations for geometry pac
+kage for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/longtable-xetex-bidi.def
+File: longtable-xetex-bidi.def 2022/05/20 v0.6 bidi adaptations for longtable p
+ackage for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/hyperref-xetex-bidi.def
+File: hyperref-xetex-bidi.def 2018/11/11 v1.1 bidi adaptations for hyperref pac
+kage for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/eso-pic-xetex-bidi.def
+File: eso-pic-xetex-bidi.def 2022/02/18 v0.4 bidi adaptations for eso-pic packa
+ge for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/listings-xetex-bidi.def
+File: listings-xetex-bidi.def 2018/09/15 v1.5 bidi adaptations for listings pac
+kage for XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/pgfcorescopes.code-xetex-bidi.def
+File: pgfcorescopes.code-xetex-bidi.def 2015/11/14 v0.1 bidi adaptations for pg
+f package for XeTeX engine
+) (c:/texlive/2024/texmf-dist/tex/xelatex/bidi/array-xetex-bidi.def
+File: array-xetex-bidi.def 2015/11/07 v0.3 bidi adaptations for array package f
+or XeTeX engine
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/pgfsys.code-xetex-bidi.def
+File: pgfsys.code-xetex-bidi.def 2022/06/01 v0.1 bidi adaptations for pgfsys.co
+de.tex file for XeTeX engine
+))
+(c:/texlive/2024/texmf-dist/tex/xelatex/bidi/loadingorder-xetex-bidi.def
+File: loadingorder-xetex-bidi.def 2017/12/29 v0.97 making sure that bidi is the
+ last package loaded
+)
+\bidi@digits=\count400
+\bidi@digits@charclass=\XeTeXcharclass1
+\bidi@sepmark@charclass=\XeTeXcharclass2
+)
+****************************************************
+* 
+* xepersian package (Persian for LaTeX, using XeTeX engine)
+* 
+* Description: The package supports Persian
+* typesetting, using fonts provided in the
+* distribution.
+* 
+* Copyright (c) 2008--2023 Vafa Khalighi
+* Copyright (c) 2018--2020 bidi-tex GitHub Organization
+* 
+* v25.0 (Release Women, Life, and Freedom), 2023/08/30
+* 
+* License: LaTeX Project Public License, version
+* 1.3c or higher (your choice)
+* 
+* Location on CTAN: /macros/xetex/latex/xepersian
+* 
+* Issue tracker: https://github.com/kvafa/xepersian/issues
+* 
+* Discussions: https://github.com/kvafa/xepersian/discussions
+* 
+* Primary author of xepersian package: Vafa Khalighi.
+* 
+****************************************************
+\xepersian@tcl=\count401
+\xepersian@ilg=\dimen300
+\xepersian@strutilg=\dimen301
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/loadingorder-xepersian.def
+File: loadingorder-xepersian.def 2018/09/29 v0.5 making sure that xepersian is 
+the last package loaded
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/footnote-xepersian.def
+File: footnote-xepersian.def 2017/08/09 v0.6 footnote macros for xepersian pack
+age
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/listings-xepersian.def
+File: listings-xepersian.def 2014/07/17 v0.3 bilingual captions for listings pa
+ckage
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/hyperref-xepersian.def
+File: hyperref-xepersian.def 2022/10/30 v0.8 xepersian adaptations for hyperref
+ package
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/url-xepersian.def
+File: url-xepersian.def 2022/02/18 v0.1 adaptations for url package
+)
+(c:/texlive/2024/texmf-dist/tex/xelatex/xepersian/extarticle-xepersian.def
+File: extarticle-xepersian.def 2010/07/25 v0.1 adaptations for extarticle class
+
+)
+
+Package fontspec Info: Font family 'lmroman10-regular(0)' created for font
+(fontspec)             'lmroman10-regular' with options
+(fontspec)             [Ligatures=TeX,Path,BoldFont={lmroman10-bold},BoldItalic
+Font={lmroman10-bolditalic},ItalicFont={lmroman10-italic},SmallCapsFont={lmroma
+ncaps10-regular},SlantedFont={lmromanslant10-regular},BoldSlantedFont={lmromans
+lant10-bold}].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-regular]/OT:script=latn;language=dflt;map
+ping=tex-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bold]/OT:script=latn;language=dflt;mappin
+g=tex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-italic]/OT:script=latn;language=dflt;mapp
+ing=tex-text;"
+(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'slanted' (m/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-regular]/OT:script=latn;language=dfl
+t;mapping=tex-text;"
+(fontspec)             - 'slanted small caps'  (m/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
+(fontspec)             <->"[lmroman10-bolditalic]/OT:script=latn;language=dflt;
+mapping=tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+(fontspec)             - 'bold slanted' (b/sl) with NFSS spec.:
+(fontspec)             <->"[lmromanslant10-bold]/OT:script=latn;language=dflt;m
+apping=tex-text;"
+(fontspec)             - 'bold slanted small caps'  (b/scsl) with NFSS spec.:
+(fontspec)             <->"[lmromancaps10-regular]/OT:script=latn;language=dflt
+;mapping=tex-text;"
+
+)
+
+Package fontspec Info: B Nazanin scale = 1.
+
+
+Package fontspec Info: Could not resolve font "B Nazanin/I" (it probably
+(fontspec)             doesn't exist).
+
+
+Package fontspec Info: B Nazanin scale = 1.
+
+
+Package fontspec Info: B Nazanin/B scale = 1.
+
+
+Package fontspec Info: B Nazanin/BI scale = 1.
+
+
+Package fontspec Info: Font family 'BNazanin(0)' created for font 'B Nazanin'
+(fontspec)             with options
+(fontspec)             [RawFeature={script=arab},Ligatures=PersianTeX,Scale =
+(fontspec)             1].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->s*[1]"B
+(fontspec)             Nazanin/OT:language=dflt;script=arab;mapping=persian-tex
+-text;"
+(fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->s*[1]"B
+(fontspec)             Nazanin/B/OT:language=dflt;script=arab;mapping=persian-t
+ex-text;"
+(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.: 
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->s*[1]"B
+(fontspec)             Nazanin/BI/OT:language=dflt;script=arab;mapping=persian-
+tex-text;"
+(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.: 
+
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 14.4pt on input line 27.
+\PageFrameTopMargin=\skip69
+\PageFrameBottomMargin=\skip70
+\PageFrameLeftMargin=\skip71
+\PageFrameRightMargin=\skip72
+\Page@FrameHeight=\skip73
+\Page@FrameWidth=\skip74
+
+(./HW3_Ghazanfari.aux)
+\openout1 = `HW3_Ghazanfari.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 55.
+LaTeX Font Info:    Trying to load font information for TS1+cmr on input line 5
+5.
+ (c:/texlive/2024/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2023/04/13 v2.5m Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 55.
+LaTeX Font Info:    ... okay on input line 55.
+\c@lstlisting=\count402
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: xetex
+*geometry* verbose mode - [ preamble ] result:
+* driver: xetex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-39.0pt
+* \headheight=14.0pt
+* \headsep=25.0pt
+* \topskip=14.0pt
+* \footskip=30.0pt
+* \marginparwidth=15.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=12.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+Package pgfplots Warning: running in backwards compatibility mode (unsuitable t
+ick labels; missing features). Consider writing \pgfplotsset{compat=1.18} into 
+your preamble.
+ on input line 55.
+
+Package hyperref Info: Link coloring ON on input line 55.
+(./HW3_Ghazanfari.out) (./HW3_Ghazanfari.out)
+\@outlinefile=\write4
+\openout4 = `HW3_Ghazanfari.out'.
+
+Package hyperref Info: Anchor `Doc-Start' on input line 55.
+File: kn-toosi.png Graphic file (type bmp)
+<kn-toosi.png>
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 35.83pt on input line 65.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 35.83pt on input line 65.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 17.28pt on input line 70.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 24.88pt on input line 73.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 24.88pt on input line 78.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 14.4pt on input line 82.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/m/n' will be
+(Font)              scaled to size 20.74pt on input line 87.
+Package hyperref Info: Anchor `page.1' on input line 89.
+ [1
+
+]
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 20.74pt on input line 93.
+Package hyperref Info: Anchor `section*.1' on input line 93.
+ (./HW3_Ghazanfari.toc
+Package hyperref Info: Reference (link) `section.2' on input line 1.
+Package hyperref Info: Reference (link) `section.2' on input line 1.
+Package hyperref Info: Reference (link) `subsection.3' on input line 2.
+Package hyperref Info: Reference (link) `subsection.3' on input line 2.
+Package hyperref Info: Reference (link) `subsection.4' on input line 3.
+Package hyperref Info: Reference (link) `subsection.4' on input line 3.
+Package hyperref Info: Reference (link) `subsection.54' on input line 4.
+Package hyperref Info: Reference (link) `subsection.54' on input line 4.
+Package hyperref Info: Reference (link) `subsection.58' on input line 5.
+Package hyperref Info: Reference (link) `subsection.58' on input line 5.
+Package hyperref Info: Reference (link) `subsection.65' on input line 6.
+Package hyperref Info: Reference (link) `subsection.65' on input line 6.
+Package hyperref Info: Reference (link) `section.69' on input line 7.
+Package hyperref Info: Reference (link) `section.69' on input line 7.
+Package hyperref Info: Reference (link) `subsection.70' on input line 8.
+Package hyperref Info: Reference (link) `subsection.70' on input line 8.
+Package hyperref Info: Reference (link) `subsection.91' on input line 9.
+Package hyperref Info: Reference (link) `subsection.91' on input line 9.
+Package hyperref Info: Reference (link) `subsubsection.92' on input line 10.
+Package hyperref Info: Reference (link) `subsubsection.92' on input line 10.
+Package hyperref Info: Reference (link) `subsubsection.96' on input line 11.
+Package hyperref Info: Reference (link) `subsubsection.96' on input line 11.
+Package hyperref Info: Reference (link) `subsection.100' on input line 12.
+Package hyperref Info: Reference (link) `subsection.100' on input line 12.
+Package hyperref Info: Reference (link) `subsection.112' on input line 13.
+Package hyperref Info: Reference (link) `subsection.112' on input line 13.
+)
+\tf@toc=\write5
+\openout5 = `HW3_Ghazanfari.toc'.
+
+Package hyperref Info: Anchor `page.2' on input line 95.
+
+[1]
+Package hyperref Info: Anchor `section.2' on input line 97.
+Package hyperref Info: bookmark on input line 97:
+(hyperref)             thecounter {1}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi سوال اول}
+(hyperref)             reference {section.2}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.3' on input line 98.
+LaTeX Font Info:    Font shape `TU/BNazanin(0)/b/n' will be
+(Font)              scaled to size 17.28pt on input line 98.
+Package hyperref Info: bookmark on input line 98:
+(hyperref)             thecounter {1.1}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش اول}
+(hyperref)             reference {subsection.3}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+[][]
+ []
+
+Package hyperref Info: Anchor `page.3' on input line 176.
+[2]
+Package hyperref Info: Anchor `subsection.4' on input line 177.
+Package hyperref Info: bookmark on input line 177:
+(hyperref)             thecounter {1.2}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش دوم}
+(hyperref)             reference {subsection.4}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+
+Underfull \hbox (badness 10000) in paragraph at lines 178--181
+[][]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--185
+[][]
+ []
+
+File: Q1_2_sim.png Graphic file (type bmp)
+<Q1_2_sim.png>
+Package hyperref Info: bookmark on input line 204:
+(hyperref)             thecounter {1}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم با کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.5}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.5' on input line 204.
+Package hyperref Info: Anchor `page.4' on input line 206.
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 207--210
+[][]
+ []
+
+Package hyperref Info: Anchor `lstlisting.6' on input line 211.
+Package hyperref Info: Anchor `lstnumber.7' on input line 212.
+LaTeX Font Info:    Font shape `TU/lmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `TU/lmtt/b/n' tried instead on input line 212.
+Package hyperref Info: Anchor `lstnumber.8' on input line 214.
+Package hyperref Info: Anchor `lstnumber.9' on input line 214.
+Package hyperref Info: Anchor `lstnumber.10' on input line 216.
+Package hyperref Info: Anchor `lstnumber.11' on input line 216.
+Package hyperref Info: Anchor `lstnumber.12' on input line 217.
+Package hyperref Info: Anchor `lstnumber.13' on input line 218.
+Package hyperref Info: Anchor `lstnumber.14' on input line 219.
+Package hyperref Info: Anchor `lstnumber.15' on input line 220.
+Package hyperref Info: Anchor `lstnumber.16' on input line 221.
+Package hyperref Info: Anchor `lstnumber.17' on input line 222.
+Package hyperref Info: Anchor `lstnumber.18' on input line 223.
+Package hyperref Info: Anchor `lstnumber.19' on input line 224.
+Package hyperref Info: Anchor `lstnumber.20' on input line 225.
+Package hyperref Info: Anchor `lstnumber.21' on input line 227.
+Package hyperref Info: Anchor `lstnumber.22' on input line 227.
+Package hyperref Info: Anchor `lstnumber.23' on input line 229.
+Package hyperref Info: Anchor `lstnumber.24' on input line 229.
+Package hyperref Info: Anchor `lstnumber.25' on input line 230.
+Package hyperref Info: Anchor `lstnumber.26' on input line 231.
+Package hyperref Info: Anchor `lstnumber.27' on input line 232.
+Package hyperref Info: Anchor `lstnumber.28' on input line 233.
+Package hyperref Info: Anchor `lstnumber.29' on input line 235.
+Package hyperref Info: Anchor `lstnumber.30' on input line 235.
+Package hyperref Info: Anchor `lstnumber.31' on input line 237.
+Package hyperref Info: Anchor `lstnumber.32' on input line 237.
+Package hyperref Info: Anchor `lstnumber.33' on input line 238.
+Package hyperref Info: Anchor `lstnumber.34' on input line 239.
+Package hyperref Info: Anchor `lstnumber.35' on input line 240.
+Package hyperref Info: Anchor `lstnumber.36' on input line 241.
+Package hyperref Info: Anchor `lstnumber.37' on input line 242.
+Package hyperref Info: Anchor `lstnumber.38' on input line 244.
+Package hyperref Info: Anchor `lstnumber.39' on input line 244.
+Package hyperref Info: Anchor `lstnumber.40' on input line 245.
+Package hyperref Info: Anchor `page.5' on input line 246.
+[4]
+Package hyperref Info: Anchor `lstnumber.41' on input line 246.
+Package hyperref Info: Anchor `lstnumber.42' on input line 247.
+Package hyperref Info: Anchor `lstnumber.43' on input line 248.
+Package hyperref Info: Anchor `lstnumber.44' on input line 249.
+Package hyperref Info: Anchor `lstnumber.45' on input line 251.
+Package hyperref Info: Anchor `lstnumber.46' on input line 251.
+Package hyperref Info: Anchor `lstnumber.47' on input line 253.
+Package hyperref Info: Anchor `lstnumber.48' on input line 253.
+Package hyperref Info: Anchor `lstnumber.49' on input line 255.
+Package hyperref Info: Anchor `lstnumber.50' on input line 255.
+Package hyperref Info: Anchor `lstnumber.51' on input line 256.
+
+Underfull \hbox (badness 10000) in paragraph at lines 260--261
+[][]
+ []
+
+File: Q1_2_mpc.png Graphic file (type bmp)
+<Q1_2_mpc.png>
+Package hyperref Info: bookmark on input line 266:
+(hyperref)             thecounter {2}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به \lr {linear MPC}}}
+(hyperref)             reference {figure.52}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.52' on input line 266.
+Package hyperref Info: Anchor `page.6' on input line 268.
+[5]
+File: Q1_2_result.png Graphic file (type bmp)
+<Q1_2_result.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 272--274
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 274:
+(hyperref)             thecounter {3}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم با کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.53}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.53' on input line 274.
+Package hyperref Info: Anchor `page.7' on input line 278.
+[6]
+Package hyperref Info: Anchor `subsection.54' on input line 279.
+Package hyperref Info: bookmark on input line 279:
+(hyperref)             thecounter {1.3}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش سوم}
+(hyperref)             reference {subsection.54}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+File: Q1_3_sim.png Graphic file (type bmp)
+<Q1_3_sim.png>
+Package hyperref Info: bookmark on input line 285:
+(hyperref)             thecounter {4}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم دارای اغتشاش با کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.55}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.55' on input line 285.
+File: Q1_3_mpc.png Graphic file (type bmp)
+<Q1_3_mpc.png>
+Package hyperref Info: bookmark on input line 293:
+(hyperref)             thecounter {5}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به \lr {linear MPC}}}
+(hyperref)             reference {figure.56}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.56' on input line 293.
+Package hyperref Info: Anchor `page.8' on input line 296.
+ [7]
+File: Q1_3_result.png Graphic file (type bmp)
+<Q1_3_result.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 301--303
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 303:
+(hyperref)             thecounter {6}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم دارای اغتشاش با کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.57}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.57' on input line 303.
+Package hyperref Info: Anchor `page.9' on input line 314.
+[8]
+Package hyperref Info: Anchor `subsection.58' on input line 315.
+Package hyperref Info: bookmark on input line 315:
+(hyperref)             thecounter {1.4}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش چهارم}
+(hyperref)             reference {subsection.58}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+File: Q1_4_sim.png Graphic file (type bmp)
+<Q1_4_sim.png>
+Package hyperref Info: bookmark on input line 326:
+(hyperref)             thecounter {7}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم دارای اغتشاش با کنترلر \lr {tube MPC}}}
+(hyperref)             reference {figure.59}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.59' on input line 326.
+File: Q1_4_mpc.png Graphic file (type bmp)
+<Q1_4_mpc.png>
+Package hyperref Info: bookmark on input line 337:
+(hyperref)             thecounter {8}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به \lr {linear MPC}}}
+(hyperref)             reference {figure.60}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.60' on input line 337.
+Package hyperref Info: Anchor `page.10' on input line 340.
+ [9]
+File: Q1_4_pid.png Graphic file (type bmp)
+<Q1_4_pid.png>
+Package hyperref Info: bookmark on input line 346:
+(hyperref)             thecounter {9}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به \lr {PID}}}
+(hyperref)             reference {figure.61}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.61' on input line 346.
+File: Q1_4_result1.png Graphic file (type bmp)
+<Q1_4_result1.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 356--358
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 358:
+(hyperref)             thecounter {10}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم دارای اغتشاش با کنترلر \lr {tube MPC}}}
+(hyperref)             reference {figure.62}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.62' on input line 358.
+Package hyperref Info: Anchor `page.11' on input line 362.
+[10]
+File: Q1_4_result2.png Graphic file (type bmp)
+<Q1_4_result2.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 368--370
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 370:
+(hyperref)             thecounter {11}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم دارای اغتشاش با کنترلر \lr {tube MPC}}}
+(hyperref)             reference {figure.63}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.63' on input line 370.
+File: Q1_4_result3.png Graphic file (type bmp)
+<Q1_4_result3.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 375--377
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 377:
+(hyperref)             thecounter {12}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم دارای اغتشاش با کنترلر \lr {tube MPC}}}
+(hyperref)             reference {figure.64}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.64' on input line 377.
+Package hyperref Info: Anchor `page.12' on input line 389.
+[11]
+Package hyperref Info: Anchor `subsection.65' on input line 390.
+Package hyperref Info: bookmark on input line 390:
+(hyperref)             thecounter {1.5}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش پنجم}
+(hyperref)             reference {subsection.65}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+File: Q1_5_cons.png Graphic file (type bmp)
+<Q1_5_cons.png>
+Package hyperref Info: bookmark on input line 402:
+(hyperref)             thecounter {13}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به قیود \lr {linear MPC}}}
+(hyperref)             reference {figure.66}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.66' on input line 402.
+File: Q1_5_mpc.png Graphic file (type bmp)
+<Q1_5_mpc.png>
+Package hyperref Info: bookmark on input line 409:
+(hyperref)             thecounter {14}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به \lr {linear MPC}}}
+(hyperref)             reference {figure.67}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.67' on input line 409.
+File: Q1_5_result.png Graphic file (type bmp)
+<Q1_5_result.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 416--418
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 418:
+(hyperref)             thecounter {15}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم مقید شده دارای اغتشاش با کنترلر \lr {tube MPC}}
+}
+(hyperref)             reference {figure.68}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.68' on input line 418.
+Package hyperref Info: Anchor `page.13' on input line 419.
+[12]
+Package hyperref Info: Anchor `page.14' on input line 430.
+ [13]
+Package hyperref Info: Anchor `section.69' on input line 432.
+Package hyperref Info: bookmark on input line 432:
+(hyperref)             thecounter {2}
+(hyperref)             text {\ifnum 1>\c@secnumdepth \else \protect \numberline
+ {\csname thesection\endcsname }\fi سوال دوم}
+(hyperref)             reference {section.69}
+(hyperref)             toclevel {1}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsection.70' on input line 433.
+Package hyperref Info: bookmark on input line 433:
+(hyperref)             thecounter {2.1}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش اول}
+(hyperref)             reference {subsection.70}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+File: Q2_1_sim.png Graphic file (type bmp)
+<Q2_1_sim.png>
+Package hyperref Info: bookmark on input line 441:
+(hyperref)             thecounter {16}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم با کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.71}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.71' on input line 441.
+
+Underfull \hbox (badness 10000) in paragraph at lines 444--447
+[][]
+ []
+
+Package hyperref Info: Anchor `lstlisting.72' on input line 448.
+Package hyperref Info: Anchor `lstnumber.73' on input line 449.
+Package hyperref Info: Anchor `lstnumber.74' on input line 451.
+Package hyperref Info: Anchor `lstnumber.75' on input line 451.
+Package hyperref Info: Anchor `lstnumber.76' on input line 453.
+Package hyperref Info: Anchor `lstnumber.77' on input line 453.
+Package hyperref Info: Anchor `lstnumber.78' on input line 454.
+Package hyperref Info: Anchor `lstnumber.79' on input line 455.
+Package hyperref Info: Anchor `lstnumber.80' on input line 456.
+Package hyperref Info: Anchor `lstnumber.81' on input line 458.
+Package hyperref Info: Anchor `lstnumber.82' on input line 458.
+Package hyperref Info: Anchor `lstnumber.83' on input line 460.
+Package hyperref Info: Anchor `lstnumber.84' on input line 460.
+Package hyperref Info: Anchor `lstnumber.85' on input line 461.
+Package hyperref Info: Anchor `lstnumber.86' on input line 462.
+Package hyperref Info: Anchor `lstnumber.87' on input line 463.
+Package hyperref Info: Anchor `page.15' on input line 467.
+[14]
+File: Q2_1_mpc.png Graphic file (type bmp)
+<Q2_1_mpc.png>
+Package hyperref Info: bookmark on input line 474:
+(hyperref)             thecounter {17}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به \lr {linear MPC}}}
+(hyperref)             reference {figure.88}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.88' on input line 474.
+File: Q2_1_States.png Graphic file (type bmp)
+<Q2_1_States.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 482--485
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 485:
+(hyperref)             thecounter {18}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces خروجی سیستم و وضعیت \lr {state} های سیستم}}
+(hyperref)             reference {figure.89}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.89' on input line 485.
+
+Underfull \hbox (badness 10000) in paragraph at lines 488--489
+[][]
+ []
+
+Package hyperref Info: Anchor `page.16' on input line 489.
+[15]
+File: Q2_1_control.png Graphic file (type bmp)
+<Q2_1_control.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 493--494
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 494:
+(hyperref)             thecounter {19}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی سیستم}}
+(hyperref)             reference {figure.90}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.90' on input line 494.
+Package hyperref Info: Anchor `page.17' on input line 499.
+[16]
+Package hyperref Info: Anchor `subsection.91' on input line 500.
+Package hyperref Info: bookmark on input line 500:
+(hyperref)             thecounter {2.2}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش دوم}
+(hyperref)             reference {subsection.91}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `subsubsection.92' on input line 502.
+Package hyperref Info: bookmark on input line 502:
+(hyperref)             thecounter {2.2.1}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsubsection\endcsname }\fi قید نرم}
+(hyperref)             reference {subsubsection.92}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+File: Q2_2_1_cons.png Graphic file (type bmp)
+<Q2_2_1_cons.png>
+Package hyperref Info: bookmark on input line 511:
+(hyperref)             thecounter {20}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به قید نرم \lr {linear MPC}}}
+(hyperref)             reference {figure.93}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.93' on input line 511.
+File: Q2_2_1_control.png Graphic file (type bmp)
+<Q2_2_1_control.png>
+Package hyperref Info: bookmark on input line 519:
+(hyperref)             thecounter {21}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال قید نرم روی کنترلر}}
+(hyperref)             reference {figure.94}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.94' on input line 519.
+Package hyperref Info: Anchor `page.18' on input line 524.
+ [17]
+File: Q2_2_1_states.png Graphic file (type bmp)
+<Q2_2_1_states.png>
+Package hyperref Info: bookmark on input line 530:
+(hyperref)             thecounter {22}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال قید نرم روی کنترلر}}
+(hyperref)             reference {figure.95}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.95' on input line 530.
+Package hyperref Info: Anchor `subsubsection.96' on input line 539.
+Package hyperref Info: bookmark on input line 539:
+(hyperref)             thecounter {2.2.2}
+(hyperref)             text {\ifnum 3>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsubsection\endcsname }\fi قید سخت}
+(hyperref)             reference {subsubsection.96}
+(hyperref)             toclevel {3}
+(hyperref)             type {toc}.
+File: Q2_2_2_cons.png Graphic file (type bmp)
+<Q2_2_2_cons.png>
+Package hyperref Info: bookmark on input line 548:
+(hyperref)             thecounter {23}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces صفحه مربوط به قید سخت \lr {linear MPC}}}
+(hyperref)             reference {figure.97}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.97' on input line 548.
+Package hyperref Info: Anchor `page.19' on input line 552.
+ [18]
+File: Q2_2_2_control.png Graphic file (type bmp)
+<Q2_2_2_control.png>
+Package hyperref Info: bookmark on input line 557:
+(hyperref)             thecounter {24}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال قید سخت روی کنترلر}}
+(hyperref)             reference {figure.98}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.98' on input line 557.
+File: Q2_2_2_states.png Graphic file (type bmp)
+<Q2_2_2_states.png>
+Package hyperref Info: bookmark on input line 568:
+(hyperref)             thecounter {25}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال قید سخت روی کنترلر}}
+(hyperref)             reference {figure.99}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.99' on input line 568.
+Package hyperref Info: Anchor `page.20' on input line 578.
+ [19]
+Package hyperref Info: Anchor `subsection.100' on input line 579.
+Package hyperref Info: bookmark on input line 579:
+(hyperref)             thecounter {2.3}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش سوم}
+(hyperref)             reference {subsection.100}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+File: Q2_3_sim.png Graphic file (type bmp)
+<Q2_3_sim.png>
+Package hyperref Info: bookmark on input line 586:
+(hyperref)             thecounter {26}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم دارای اغتشاش با کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.101}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.101' on input line 586.
+File: Q2_3_1_control.png Graphic file (type bmp)
+<Q2_3_1_control.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 595--597
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 597:
+(hyperref)             thecounter {27}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال اغتشاش با کنترلر \lr {linear MPC}
+}}
+(hyperref)             reference {figure.102}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.102' on input line 597.
+Package hyperref Info: Anchor `page.21' on input line 602.
+[20]
+File: Q2_3_1_states1.png Graphic file (type bmp)
+<Q2_3_1_states1.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 605--609
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 609:
+(hyperref)             thecounter {28}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال اغتشاش به سیستم با کنترلر 
+\lr {linear MPC}}}
+(hyperref)             reference {figure.103}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.103' on input line 609.
+File: Q2_3_1_states2.png Graphic file (type bmp)
+<Q2_3_1_states2.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 615--619
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 619:
+(hyperref)             thecounter {29}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال اغتشاش به سیستم با کنترلر 
+\lr {linear MPC}}}
+(hyperref)             reference {figure.104}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.104' on input line 619.
+Package hyperref Info: Anchor `page.22' on input line 624.
+[21]
+File: Q2_3_1_states1D.png Graphic file (type bmp)
+<Q2_3_1_states1D.png>
+
+Overfull \hbox (9.11015pt too wide) in paragraph at lines 631--635
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 635:
+(hyperref)             thecounter {30}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال اغتشاش بزرگتر به سیستم با 
+کنترلر \lr {linear MPC}}}
+(hyperref)             reference {figure.105}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.105' on input line 635.
+File: Q2_3_1_controlD.png Graphic file (type bmp)
+<Q2_3_1_controlD.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 640--642
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 642:
+(hyperref)             thecounter {31}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال اغتشاش بزرگتر با کنترلر \lr {line
+ar MPC}}}
+(hyperref)             reference {figure.106}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.106' on input line 642.
+Package hyperref Info: Anchor `page.23' on input line 645.
+[22]
+File: Q2_3_1_sim.png Graphic file (type bmp)
+<Q2_3_1_sim.png>
+
+Overfull \hbox (5.68411pt too wide) in paragraph at lines 654--656
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 656:
+(hyperref)             thecounter {32}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم دارای اغتشاش با کنترلر \lr {tub MPC}}}
+(hyperref)             reference {figure.107}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.107' on input line 656.
+File: Q2_3_2_pid.png Graphic file (type bmp)
+<Q2_3_2_pid.png>
+Package hyperref Info: bookmark on input line 668:
+(hyperref)             thecounter {33}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces ضرایب \lr {PID} به کار رفته در \lr {tub MPC}}}
+(hyperref)             reference {figure.108}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.108' on input line 668.
+Package hyperref Info: Anchor `page.24' on input line 671.
+[23]
+File: Q2_3_2_states1D.png Graphic file (type bmp)
+<Q2_3_2_states1D.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 677--681
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 681:
+(hyperref)             thecounter {34}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال اغتشاش بزرگتر به سیستم با 
+کنترلر \lr {tube MPC}}}
+(hyperref)             reference {figure.109}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.109' on input line 681.
+File: Q2_3_2_control1.png Graphic file (type bmp)
+<Q2_3_2_control1.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 686--688
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 688:
+(hyperref)             thecounter {35}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال اغتشاش بزرگتر با کنترلر \lr {tube
+ MPC}}}
+(hyperref)             reference {figure.110}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.110' on input line 688.
+Package hyperref Info: Anchor `page.25' on input line 691.
+[24]
+File: Q2_3_2_control2.png Graphic file (type bmp)
+<Q2_3_2_control2.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 695--697
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 697:
+(hyperref)             thecounter {36}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی با بزرگنمایی پس از اعمال اغتشاش بزرگتر با کنت
+رلر \lr {tube MPC}}}
+(hyperref)             reference {figure.111}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.111' on input line 697.
+Package hyperref Info: Anchor `page.26' on input line 706.
+[25]
+Package hyperref Info: Anchor `subsection.112' on input line 707.
+Package hyperref Info: bookmark on input line 707:
+(hyperref)             thecounter {2.4}
+(hyperref)             text {\ifnum 2>\c@secnumdepth \else \protect \numberline
+ {\csname thesubsection\endcsname }\fi بخش چهارم}
+(hyperref)             reference {subsection.112}
+(hyperref)             toclevel {2}
+(hyperref)             type {toc}.
+Package hyperref Info: Anchor `lstlisting.113' on input line 710.
+Package hyperref Info: Anchor `lstnumber.114' on input line 711.
+Package hyperref Info: Anchor `lstnumber.115' on input line 713.
+Package hyperref Info: Anchor `lstnumber.116' on input line 713.
+Package hyperref Info: Anchor `lstnumber.117' on input line 715.
+Package hyperref Info: Anchor `lstnumber.118' on input line 715.
+Package hyperref Info: Anchor `lstnumber.119' on input line 716.
+Package hyperref Info: Anchor `lstnumber.120' on input line 717.
+Package hyperref Info: Anchor `lstnumber.121' on input line 718.
+Package hyperref Info: Anchor `lstnumber.122' on input line 719.
+Package hyperref Info: Anchor `lstnumber.123' on input line 720.
+Package hyperref Info: Anchor `lstnumber.124' on input line 721.
+Package hyperref Info: Anchor `lstnumber.125' on input line 722.
+Package hyperref Info: Anchor `lstnumber.126' on input line 724.
+Package hyperref Info: Anchor `lstnumber.127' on input line 724.
+Package hyperref Info: Anchor `lstnumber.128' on input line 726.
+Package hyperref Info: Anchor `lstnumber.129' on input line 726.
+Package hyperref Info: Anchor `lstnumber.130' on input line 727.
+Package hyperref Info: Anchor `lstnumber.131' on input line 728.
+Package hyperref Info: Anchor `lstnumber.132' on input line 729.
+Package hyperref Info: Anchor `page.27' on input line 733.
+ [26]
+File: Q2_4_1_states.png Graphic file (type bmp)
+<Q2_4_1_states.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 740--744
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 744:
+(hyperref)             thecounter {37}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال نایقینی به سیستم با کنترلر
+ \lr {linear MPC}}}
+(hyperref)             reference {figure.133}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.133' on input line 744.
+File: Q2_4_1_control.png Graphic file (type bmp)
+<Q2_4_1_control.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 749--751
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 751:
+(hyperref)             thecounter {38}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال نایقینی با کنترلر \lr {linear MPC
+}}}
+(hyperref)             reference {figure.134}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.134' on input line 751.
+Package hyperref Info: Anchor `page.28' on input line 758.
+[27]
+File: Q2_4_sim.png Graphic file (type bmp)
+<Q2_4_sim.png>
+
+Overfull \hbox (9.9002pt too wide) in paragraph at lines 764--766
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 766:
+(hyperref)             thecounter {39}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیستم دارای نایقینی با کنترلر \lr {tube MPC}}}
+(hyperref)             reference {figure.135}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.135' on input line 766.
+File: Q2_4_2_pid.png Graphic file (type bmp)
+<Q2_4_2_pid.png>
+Package hyperref Info: bookmark on input line 775:
+(hyperref)             thecounter {40}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces ضرایب \lr {PID} به کار رفته در \lr {tub MPC}}}
+(hyperref)             reference {figure.136}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.136' on input line 775.
+Package hyperref Info: Anchor `page.29' on input line 779.
+[28]
+File: Q2_4_2_states.png Graphic file (type bmp)
+<Q2_4_2_states.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 782--786
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 786:
+(hyperref)             thecounter {41}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces وضعیت \lr {state} ها پس از اعمال نایقینی به سیستم با کنترلر
+ \lr {tube MPC}}}
+(hyperref)             reference {figure.137}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.137' on input line 786.
+File: Q2_4_2_control.png Graphic file (type bmp)
+<Q2_4_2_control.png>
+
+Overfull \hbox (9.59198pt too wide) in paragraph at lines 794--796
+ [][][][][][] 
+ []
+
+Package hyperref Info: bookmark on input line 796:
+(hyperref)             thecounter {42}
+(hyperref)             text {\protect \numberline {\csname the\@captype \endcsn
+ame }{\ignorespaces سیگنال کنترلی پس از اعمال نایقینی با کنترلر \lr {tube MPC}}
+}
+(hyperref)             reference {figure.138}
+(hyperref)             toclevel {0}
+(hyperref)             type {lof}.
+Package hyperref Info: Anchor `figure.138' on input line 796.
+Package hyperref Info: Anchor `page.30' on input line 800.
+[29] (./HW3_Ghazanfari.aux)
+ ***********
+LaTeX2e <2023-11-01> patch level 1
+L3 programming layer <2024-02-20>
+ ***********
+Package rerunfilecheck Info: File `HW3_Ghazanfari.out' has not changed.
+(rerunfilecheck)             Checksum: 1909F9E7AFBD73F586407E0BEE26CE51;1509.
+ ) 
+Here is how much of TeX's memory you used:
+ 37476 strings out of 474773
+ 904487 string characters out of 5761288
+ 2206842 words of memory out of 5000000
+ 58913 multiletter control sequences out of 15000+600000
+ 560041 words of font info for 73 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 99i,15n,120p,1334b,2082s stack positions out of 10000i,1000n,20000p,200000b,200000s
+
+Output written on HW3_Ghazanfari.pdf (30 pages).
