@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.9.2)  31 DEC 2024 16:04
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 24.1) (preloaded format=xelatex 2024.9.2)  3 JAN 2025 23:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2541,8 +2541,6 @@ File: ./img/../img/8.png Graphic file (type bmp)
 <./img/../img/8.png>
 File: ./img/../img/9.png Graphic file (type bmp)
 <./img/../img/9.png>
-File: ./img/../img/10.png Graphic file (type bmp)
-<./img/../img/10.png>
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -2557,6 +2555,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [5] (Alireza_Amiri_MPC_Assignment4.mw)
 \openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
 
+File: ./img/../img/10.png Graphic file (type bmp)
+<./img/../img/10.png>
 File: ./img/../img/11.png Graphic file (type bmp)
 <./img/../img/11.png>
 
@@ -2578,8 +2578,6 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 File: ./img/../img/13.png Graphic file (type bmp)
 <./img/../img/13.png>
-File: ./img/../img/14.png Graphic file (type bmp)
-<./img/../img/14.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2597,6 +2595,8 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [7] (Alireza_Amiri_MPC_Assignment4.mw)
 \openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
 
+File: ./img/../img/14.png Graphic file (type bmp)
+<./img/../img/14.png>
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
@@ -2673,7 +2673,14 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 [11] (Alireza_Amiri_MPC_Assignment4.mw)
 \openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
 
-)
+File: ./img/../img/19.png Graphic file (type bmp)
+<./img/../img/19.png>
+File: ./img/../img/20.png Graphic file (type bmp)
+<./img/../img/20.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -2685,6 +2692,313 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 \openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
 
 [12] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/21.png Graphic file (type bmp)
+<./img/../img/21.png>
+File: ./img/../img/22.png Graphic file (type bmp)
+<./img/../img/22.png>
+File: ./img/../img/23.png Graphic file (type bmp)
+<./img/../img/23.png>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+File: ./img/../img/24.png Graphic file (type bmp)
+<./img/../img/24.png>
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[13] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+
+Overfull \vbox (85.41608pt too high) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[14] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/25.png Graphic file (type bmp)
+<./img/../img/25.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[15] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/26.png Graphic file (type bmp)
+<./img/../img/26.png>
+
+Overfull \hbox (29.87729pt too wide) in paragraph at lines 259--270
+[]\TU/IRLotusICEE.ttf(0)/m/n/12 کار با استفاده از دستورات $\OML/cmm/m/it/12 gen
+erateExplicitRange$\TU/IRLotusICEE.ttf(0)/m/n/12 ، $\OML/cmm/m/it/12 generateEx
+plicitOptions$ \TU/IRLotusICEE.ttf(0)/m/n/12 و $\OML/cmm/m/it/12 generateExplic
+itMPC$[]
+ []
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[16] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/27.png Graphic file (type bmp)
+<./img/../img/27.png>
+File: ./img/../img/28.png Graphic file (type bmp)
+<./img/../img/28.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[17] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/29.png Graphic file (type bmp)
+<./img/../img/29.png>
+File: ./img/../img/30.png Graphic file (type bmp)
+<./img/../img/30.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[18] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/31.png Graphic file (type bmp)
+<./img/../img/31.png>
+File: ./img/../img/32.png Graphic file (type bmp)
+<./img/../img/32.png>
+
+Underfull \vbox (badness 4543) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[19] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/33.png Graphic file (type bmp)
+<./img/../img/33.png>
+File: ./img/../img/34.png Graphic file (type bmp)
+<./img/../img/34.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[20] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/35.png Graphic file (type bmp)
+<./img/../img/35.png>
+File: ./img/../img/36.png Graphic file (type bmp)
+<./img/../img/36.png>
+
+Underfull \vbox (badness 2951) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[21] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/37.png Graphic file (type bmp)
+<./img/../img/37.png>
+File: ./img/../img/38.png Graphic file (type bmp)
+<./img/../img/38.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[22] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/39.png Graphic file (type bmp)
+<./img/../img/39.png>
+File: ./img/../img/40.png Graphic file (type bmp)
+<./img/../img/40.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[23] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/41.png Graphic file (type bmp)
+<./img/../img/41.png>
+File: ./img/../img/42.png Graphic file (type bmp)
+<./img/../img/42.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[24] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+File: ./img/../img/43.png Graphic file (type bmp)
+<./img/../img/43.png>
+File: ./img/../img/44.png Graphic file (type bmp)
+<./img/../img/44.png>
+File: ./img/../img/45.png Graphic file (type bmp)
+<./img/../img/45.png>
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[25] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+LaTeX Font Info:    Font shape `TU/IRLotusICEE.ttf(1)/b/n' will be
+(Font)              scaled to size 20.73593pt on input line 444.
+File: ./img/../img/47.png Graphic file (type bmp)
+<./img/../img/47.png>
+File: ./img/../img/46.png Graphic file (type bmp)
+<./img/../img/46.png>
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[26] (Alireza_Amiri_MPC_Assignment4.mw)
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+)
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+\openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
+
+[27] (Alireza_Amiri_MPC_Assignment4.mw)
 \openout5 = `Alireza_Amiri_MPC_Assignment4.mw'.
 
 
@@ -2699,20 +3013,30 @@ L3 programming layer <2024-01-22>
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
 \openout5 = `Alireza_Amiri_MPC_Assignment4.out'.
 
-Package rerunfilecheck Info: File `Alireza_Amiri_MPC_Assignment4.out' has not c
-hanged.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+
+Package rerunfilecheck Warning: File `Alireza_Amiri_MPC_Assignment4.out' has ch
+anged.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Alireza_Amiri_MPC_Assignment4.out':
+
+(rerunfilecheck)             Before: D41D8CD98F00B204E9800998ECF8427E;0
+(rerunfilecheck)             After:  AA19F5211D0A41935281A332171150C3;141.
  )
 (\end occurred when \ifx on line 26 was incomplete) 
 Here is how much of TeX's memory you used:
- 51771 strings out of 409673
- 1157030 string characters out of 5774502
+ 52475 strings out of 409673
+ 1172156 string characters out of 5774502
  1935630 words of memory out of 5000000
- 72712 multiletter control sequences out of 15000+600000
+ 73309 multiletter control sequences out of 15000+600000
  564151 words of font info for 110 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  100i,12n,101p,2373b,479s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Alireza_Amiri_MPC_Assignment4.pdf (13 pages).
+Output written on Alireza_Amiri_MPC_Assignment4.pdf (28 pages).
