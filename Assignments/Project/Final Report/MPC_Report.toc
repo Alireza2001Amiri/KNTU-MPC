@@ -1,0 +1,25 @@
+\contentsline {chapter}{\numberline {1}مقدمه}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}مقدمه‌ای بر موتورهای صفحه‌ای مبتنی‌ بر شناوری مغناطیسی}{1}{section.1.1}%
+\contentsline {chapter}{\numberline {2}مروری بر مطالعات انجام شده}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}مقدمه}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}معماری دستگاه‌های MLPM}{3}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}‌آهنرباهای متحرک و سیم‌پیچ‌های ثابت}{4}{subsection.2.2.1}%
+\contentsline {section}{\numberline {2.3}طراحی کنترلر}{5}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}کنترلر PID}{5}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}کنترلر مبتنی بر پیش‌بینی مدل MPC}{6}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}کنترلر مبتنی بر هوش مصنوعی}{7}{subsection.2.3.3}%
+\contentsline {chapter}{\numberline {3}روش شناسی}{9}{chapter.3}%
+\contentsline {section}{\numberline {3.1}مدل سیستم}{9}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}مدل سیستم متحرک}{9}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}مدل سیستم ثابت}{13}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}پیاده سازی محاسبات ماتریس حالت}{18}{subsection.3.1.3}%
+\contentsline {subsection}{\numberline {3.1.4}پیاده سازی محاسبات $\Gamma $}{22}{subsection.3.1.4}%
+\contentsline {section}{\numberline {3.2}طراحی کنترلر}{27}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}پاسخ سیستم حلقه باز}{28}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}پیاده سازی کنترلر $PID$}{29}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}پیاده سازی کنترلر $Linear MPC$}{32}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}پیاده سازی کنترلر $Tube MPC$}{37}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}مقایسه نتایج}{40}{section.3.3}%
+\contentsline {chapter}{\numberline {4}نتیجه گیری}{47}{chapter.4}%
+\contentsline {section}{\numberline {4.1}کارهای آینده}{48}{section.4.1}%
+\contentsline {chapter}{\numberline {5}بحث و نتیجه‌گیری}{49}{chapter.5}%
